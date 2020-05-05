@@ -1,11 +1,6 @@
 package Assignment2;
 
 /*
-CIS2168 03 Fall 2019 Data Structures
-Alexandro Drogo
-tuj78444@temple.edu
-Lab4_Assignment 2
-
 Program Description:
 This program uses liked lists to store data input by a user. The user can choose to add an 
 assignment, remove an assignment, see which assignment is due soonest, and show all active
